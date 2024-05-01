@@ -1,0 +1,117 @@
+Wed May 01 00:13:24 2024 UTC - Current process: PoliceStories.exe
+Wed May 01 00:13:24 2024 UTC - Module file name: C:\Program Files (x86)\Steam\GameOverlayRenderer.dll
+Wed May 01 00:13:24 2024 UTC - GameID = 539470, OverlayGameID = 539470
+Wed May 01 00:13:24 2024 UTC - System page size: 4096
+Wed May 01 00:13:24 2024 UTC - Hooking SetCursorPos, GetCursorPos, ShowCursor, SetCursor, and GetCursor
+Wed May 01 00:13:24 2024 UTC - Game is using dxgi (dx10/dx11), preparing to hook.
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputEnable Version 13
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputGetBatteryInformation Version 13
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputGetCapabilities Version 13
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputGetDSoundAudioDeviceGuids Version 13
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputGetKeystroke Version 13
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputGetState Version 13
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputGetStateEx Version 13
+Wed May 01 00:13:24 2024 UTC - XInput Hooked XInputSetState Version 13
+Wed May 01 00:13:24 2024 UTC - Modules at GameOverlayRenderer.dll attach
+Wed May 01 00:13:24 2024 UTC - 01: PoliceStories.exe - (00290000 to 03BD4000)
+Wed May 01 00:13:24 2024 UTC - 02: ntdll.dll - (77230000 to 773E1000)
+Wed May 01 00:13:24 2024 UTC - 03: KERNEL32.DLL - (76C50000 to 76D40000)
+Wed May 01 00:13:24 2024 UTC - 04: KERNELBASE.dll - (75160000 to 753D5000)
+Wed May 01 00:13:24 2024 UTC - 05: apphelp.dll - (6D9E0000 to 6DA86000)
+Wed May 01 00:13:24 2024 UTC - 06: WS2_32.dll - (75A50000 to 75AAF000)
+Wed May 01 00:13:24 2024 UTC - 07: RPCRT4.dll - (75930000 to 759EA000)
+Wed May 01 00:13:24 2024 UTC - 08: d3d11.dll - (67F80000 to 681B8000)
+Wed May 01 00:13:24 2024 UTC - 09: WININET.dll - (6DBE0000 to 6E068000)
+Wed May 01 00:13:24 2024 UTC - 10: msvcp_win.dll - (76BD0000 to 76C49000)
+Wed May 01 00:13:24 2024 UTC - 11: USER32.dll - (74FB0000 to 75159000)
+Wed May 01 00:13:24 2024 UTC - 12: msvcrt.dll - (76FD0000 to 77094000)
+Wed May 01 00:13:24 2024 UTC - 13: win32u.dll - (76BB0000 to 76BCA000)
+Wed May 01 00:13:24 2024 UTC - 14: advapi32.dll - (75D50000 to 75DCF000)
+Wed May 01 00:13:24 2024 UTC - 15: GDI32.dll - (768C0000 to 768E3000)
+Wed May 01 00:13:24 2024 UTC - 16: ucrtbase.dll - (76D40000 to 76E52000)
+Wed May 01 00:13:24 2024 UTC - 17: gdi32full.dll - (76550000 to 76632000)
+Wed May 01 00:13:24 2024 UTC - 18: COMDLG32.dll - (76490000 to 76541000)
+Wed May 01 00:13:24 2024 UTC - 19: combase.dll - (75AB0000 to 75D2C000)
+Wed May 01 00:13:24 2024 UTC - 20: shcore.dll - (76690000 to 76751000)
+Wed May 01 00:13:24 2024 UTC - 21: dbghelp.dll - (70710000 to 708E6000)
+Wed May 01 00:13:24 2024 UTC - 22: SHLWAPI.dll - (76640000 to 7668B000)
+Wed May 01 00:13:24 2024 UTC - 23: OLEAUT32.dll - (74F10000 to 74FAC000)
+Wed May 01 00:13:24 2024 UTC - 24: sechost.dll - (77190000 to 77215000)
+Wed May 01 00:13:24 2024 UTC - 25: SHELL32.dll - (75DF0000 to 76489000)
+Wed May 01 00:13:24 2024 UTC - 26: ole32.dll - (76760000 to 768B5000)
+Wed May 01 00:13:24 2024 UTC - 27: bcrypt.dll - (75D30000 to 75D4A000)
+Wed May 01 00:13:24 2024 UTC - 28: gdiplus.dll - (5F500000 to 5F66E000)
+Wed May 01 00:13:24 2024 UTC - 29: WINMM.dll - (6EF70000 to 6EFA1000)
+Wed May 01 00:13:24 2024 UTC - 30: COMCTL32.dll - (6EA70000 to 6EC98000)
+Wed May 01 00:13:24 2024 UTC - 31: dxgi.dll - (68E70000 to 68F3A000)
+Wed May 01 00:13:24 2024 UTC - 32: dwmapi.dll - (6BFF0000 to 6C014000)
+Wed May 01 00:13:24 2024 UTC - 33: VERSION.dll - (743E0000 to 743E8000)
+Wed May 01 00:13:24 2024 UTC - 34: dbgcore.DLL - (70680000 to 706A9000)
+Wed May 01 00:13:24 2024 UTC - 35: IMM32.DLL - (770A0000 to 770C5000)
+Wed May 01 00:13:24 2024 UTC - 36: uxtheme.dll - (6FB50000 to 6FBCF000)
+Wed May 01 00:13:24 2024 UTC - 37: MSCTF.dll - (76A50000 to 76B4F000)
+Wed May 01 00:13:24 2024 UTC - 38: xinput1_3.dll - (04560000 to 04576000)
+Wed May 01 00:13:24 2024 UTC - 39: SETUPAPI.dll - (754F0000 to 7592D000)
+Wed May 01 00:13:24 2024 UTC - 40: steam_api.dll - (524B0000 to 524ED000)
+Wed May 01 00:13:24 2024 UTC - 41: OnlineFix.DLL - (500B0000 to 50809000)
+Wed May 01 00:13:24 2024 UTC - 42: WLDAP32.dll - (769F0000 to 76A50000)
+Wed May 01 00:13:24 2024 UTC - 43: windows.storage.dll - (744E0000 to 74BCF000)
+Wed May 01 00:13:24 2024 UTC - 44: wintypes.dll - (74410000 to 744D7000)
+Wed May 01 00:13:24 2024 UTC - 45: steamclient.dll - (68F40000 to 6A23E000)
+Wed May 01 00:13:24 2024 UTC - 46: CRYPT32.dll - (753E0000 to 754E3000)
+Wed May 01 00:13:24 2024 UTC - 47: imagehlp.dll - (77170000 to 7718B000)
+Wed May 01 00:13:24 2024 UTC - 48: PSAPI.DLL - (75DD0000 to 75DD6000)
+Wed May 01 00:13:24 2024 UTC - 49: IPHLPAPI.DLL - (74CF0000 to 74D14000)
+Wed May 01 00:13:24 2024 UTC - 50: vstdlib_s.dll - (6DAB0000 to 6DB36000)
+Wed May 01 00:13:24 2024 UTC - 51: tier0_s.dll - (6DB40000 to 6DBD8000)
+Wed May 01 00:13:24 2024 UTC - 52: MSWSOCK.dll - (70900000 to 70951000)
+Wed May 01 00:13:24 2024 UTC - 53: Secur32.dll - (6F3F0000 to 6F3FA000)
+Wed May 01 00:13:24 2024 UTC - 54: SSPICLI.DLL - (6EEA0000 to 6EECB000)
+Wed May 01 00:13:24 2024 UTC - 55: CRYPTBASE.DLL - (70A80000 to 70A8B000)
+Wed May 01 00:13:24 2024 UTC - 56: bcryptPrimitives.dll - (768F0000 to 76952000)
+Wed May 01 00:13:24 2024 UTC - 57: GameOverlayRenderer.dll - (50F90000 to 510E1000)
+Wed May 01 00:13:24 2024 UTC - 58: CFGMGR32.dll - (74C60000 to 74C9D000)
+Wed May 01 00:13:24 2024 UTC - 59: steam.dll - (51AF0000 to 51BE7000)
+Wed May 01 00:13:24 2024 UTC - ----------------------------
+Wed May 01 00:13:24 2024 UTC - Game is using dinput8, preparing to hook.
+Wed May 01 00:13:24 2024 UTC - DirectInput8Create hook called, 1BA3F6B8
+Wed May 01 00:13:24 2024 UTC - hookCreateDXGIFactory2 called
+Wed May 01 00:13:24 2024 UTC - Hooking vtable for factory
+Wed May 01 00:13:25 2024 UTC - IWrapDXGIFactory2::CreateSwapChain called
+Wed May 01 00:13:25 2024 UTC - Hooking vtable for swap chain
+Wed May 01 00:13:25 2024 UTC - Hooking vtable for swap chain1
+Wed May 01 00:13:25 2024 UTC - Hooking vtable for swap chain3
+Wed May 01 00:13:25 2024 UTC - Trying to detour d3d11 device
+Wed May 01 00:13:25 2024 UTC - Hooking vtable for device
+Wed May 01 00:13:25 2024 UTC - Tracking new device: 1b99f86c
+Wed May 01 00:13:25 2024 UTC - Tracking new swap chain: 1e0e8008 (with device: 1b99f86c)
+Wed May 01 00:13:25 2024 UTC - Creating D3D11 renderer
+Wed May 01 00:13:25 2024 UTC - Initializing Audio...
+Wed May 01 00:13:25 2024 UTC - IAudioClient_Initialize - SUCCEEDED
+Wed May 01 00:13:25 2024 UTC - Audio client initialized: 0x266E7450
+Wed May 01 00:13:25 2024 UTC - Device:
+Wed May 01 00:13:25 2024 UTC - Audio client mix format:
+Wed May 01 00:13:25 2024 UTC - 	format: 65534
+Wed May 01 00:13:25 2024 UTC - 	channels: 2
+Wed May 01 00:13:25 2024 UTC - 	samples/sec: 48000
+Wed May 01 00:13:25 2024 UTC - 	bytes/sec: 384000
+Wed May 01 00:13:25 2024 UTC - 	alignment: 8
+Wed May 01 00:13:25 2024 UTC - 	bits/sample: 32
+Wed May 01 00:13:25 2024 UTC - 	channel mask: 0x3
+Wed May 01 00:13:25 2024 UTC - 	data format: {00000003-0000-0010-8000-00AA00389B71}
+Wed May 01 00:13:25 2024 UTC - Audio hooked
+Wed May 01 00:13:25 2024 UTC - Audio client started: 0x266E7450, 1
+Wed May 01 00:13:26 2024 UTC - Trying to setup input hook...
+Wed May 01 00:13:26 2024 UTC - Set input hook...
+Wed May 01 00:13:26 2024 UTC - Releasing all resources for device: 1B99F86C
+Wed May 01 00:13:26 2024 UTC - Detaching input hook...
+Wed May 01 00:13:26 2024 UTC - Releasing all resources for device: 1B99F86C
+Wed May 01 00:13:26 2024 UTC - Releasing all resources for device: 1B99F86C
+Wed May 01 00:13:26 2024 UTC - Releasing all resources for device: 1B99F86C
+Wed May 01 00:13:26 2024 UTC - Releasing all resources for device: 1B99F86C
+Wed May 01 00:13:26 2024 UTC - Releasing all resources for device: 1B99F86C
+Wed May 01 00:13:28 2024 UTC - Trying to setup input hook...
+Wed May 01 00:13:28 2024 UTC - Set input hook...
+Wed May 01 00:13:56 2024 UTC - DInput 1BA3F6B8 deleting
+Wed May 01 00:13:57 2024 UTC - GameOverlayRenderer.dll detaching
+Wed May 01 00:13:57 2024 UTC - Detaching input hook...
